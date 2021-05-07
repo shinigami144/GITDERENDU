@@ -1,2 +1,0 @@
-C:\Users\David\Desktop\Ludus\Projet Castlevania\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
-C:\Users\David\Desktop\Ludus\Projet Castlevania\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
